@@ -1578,7 +1578,7 @@ Jesteś pewien?</translation>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>Robinhood Wallet %1</source>
         <translation>Karbowaneć v. %1</translation>
     </message>
     <message numerus="yes">
@@ -1602,7 +1602,7 @@ Jesteś pewien?</translation>
         <translation type="vanished">Kwota: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
+        <source>Robinhood Wallet</source>
         <translation type="vanished">Karbowaniec</translation>
     </message>
     <message>

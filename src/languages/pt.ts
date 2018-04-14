@@ -1587,8 +1587,8 @@ Você tem certeza?</translation>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
-        <translation>Karbo Wallet %1</translation>
+        <source>Robinhood Wallet %1</source>
+        <translation>Robinhood Wallet %1</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -1603,8 +1603,8 @@ Você tem certeza?</translation>
         <translation type="vanished">Quantidade: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
-        <translation type="vanished">Karbo Wallet</translation>
+        <source>Robinhood Wallet</source>
+        <translation type="vanished">Robinhood Wallet</translation>
     </message>
     <message>
         <source>New transaction received</source>

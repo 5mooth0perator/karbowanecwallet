@@ -1594,7 +1594,7 @@ Are you sure?</source>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>Robinhood Wallet %1</source>
         <translation>Karbo Portefeuille %1</translation>
     </message>
     <message>
@@ -1610,7 +1610,7 @@ Are you sure?</source>
         <translation type="vanished">Montant total: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
+        <source>Robinhood Wallet</source>
         <translation type="vanished">Portefeuille Karbo</translation>
     </message>
     <message>
