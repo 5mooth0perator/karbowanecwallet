@@ -103,7 +103,7 @@ void Settings::load() {
   }
 
   QStringList defaultNodesList;
-  defaultNodesList << "node.karbowanec.com:32348" << "node.krb.mypool.online:32348"; // "pool2.democats.org:7671"
+  defaultNodesList << "34.232.235.89:32348" << "35.173.79.208:32348"; // "pool2.democats.org:7671"
   if (!m_settings.contains(OPTION_RPCNODES)) {
     setRpcNodesList(QStringList() << defaultNodesList);
   } else {
